@@ -1,0 +1,19 @@
+{
+  "name": "Nodejs-bot",
+  "version": "1.0.0",
+  "description": "Nodejs cryptocurrency trading bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "commander": "^2.15.1",
+    "randomstring": "^1.1.5",
+    "uuid": "^3.2.1",
+    "ws": "^7.2.0"
+  }
+}
